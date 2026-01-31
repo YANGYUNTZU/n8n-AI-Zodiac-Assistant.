@@ -104,5 +104,5 @@ graph TD
 
 ## 📸 執行截圖範例
 
-![工作流配置](/images/Workflow.png)
+![工作流配置](/images/workflow.png)
 ![google_sheet](/images/google_sheet.png)
