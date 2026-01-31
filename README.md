@@ -100,4 +100,9 @@ graph TD
     E --> F[Wait 2s]
     F --> C
     C -- Done --> G[End]
+```
 
+## 📸 執行截圖範例
+
+![工作流配置](/images/Workflow.png)
+![google_sheet](/images/google_sheet.png)
